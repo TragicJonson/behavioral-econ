@@ -1,0 +1,22 @@
+The tendency to believe our perception of the world reflects it exactly as it is, unbiased and unfiltered. We don’t think our emotions, past experiences, or cultural identity affect the way we perceive the world and thus believe others see it in the same way as we do. Naive realism rests on the idea that there is a material, objective world accessible to us and others around us.
+
+Naive realism is within the egocentric bias category, a group of biases that indicate we rely too heavily on our own point of view and fail to understand that it is a personal point of view. These biases make it difficult for us to understand other people’s perspectives and can lead to arguments and polarization.
+
+#judgment 
+
+##### Related studies: 
+
+1. _Naïve realism : Meaning, Examples, Characteristics and Criticism_. (2019, September 10). Sociology Group. Retrieved December 2, 2021, from **[https://www.sociologygroup.com/naive-realism/](https://www.sociologygroup.com/naive-realism/)**
+2. _The Egocentric Bias: Why It’s Hard to See Things from a Different Perspective_. (n.d.). Effectiviology. Retrieved December 2, 2021, from **[https://effectiviology.com/egocentric-bias/](https://effectiviology.com/egocentric-bias/)**
+3. Mlblevins. (2015, March 26). _The Concept of Naive Realism Explained With Everyday Examples_. Psychologenie. **[https://psychologenie.com/concept-of-naive-realism-explained-with-examples](https://psychologenie.com/concept-of-naive-realism-explained-with-examples)**
+4. _Lee Ross on Naive Realism and Conflict Resolution_. (2008, April 14). The Situationist. **[https://thesituationist.wordpress.com/2008/04/14/lee-ross-on-naive-realism-and-conflict-resolution/](https://thesituationist.wordpress.com/2008/04/14/lee-ross-on-naive-realism-and-conflict-resolution/)**
+5. Nelson, B. (2021, November 18). _10 Rude Manners That Are Actually Polite in Other Countries_. Reader’s Digest. **[https://www.rd.com/list/rude-american-manners/](https://www.rd.com/list/rude-american-manners/)**
+6. Freely, C. (2021, January 19). _Naïve Realism Explains Why Politics Is So Polarized and Toxic_. The Happy Neuron. **[https://thehappyneuron.com/2021/01/naive-realism-explains-why-politics-is-so-polarized-and-toxic/](https://thehappyneuron.com/2021/01/naive-realism-explains-why-politics-is-so-polarized-and-toxic/)**
+7. _Fundamental Attribution Error_. (2021, February 26). The Decision Lab. **[https://thedecisionlab.com/biases/fundamental-attribution-error/](https://thedecisionlab.com/biases/fundamental-attribution-error/)**
+8. Cherry, K. (2020, October 18). _What Is Top-Down Processing?_ Verywell Mind. **[https://www.verywellmind.com/what-is-top-down-processing-2795975](https://www.verywellmind.com/what-is-top-down-processing-2795975)**
+9. Fish, B. (2017, March 30). _Naïve realism_. Oxford Bibliographies. **[https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0340.xml](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0340.xml)**
+10. Gabow, K. (2017, April 17). Naïve Realism: Our Misinterpretation of How We Interpret the World. _CogBlog – A Cognitive Psychology Blog_. **[https://web.colby.edu/cogblog/2017/04/17/naive-realism-our-misinterpretation-of-how-we-interpret-the-world/](https://web.colby.edu/cogblog/2017/04/17/naive-realism-our-misinterpretation-of-how-we-interpret-the-world/)**
+11. Zainabpsyc. (2018, February 9). Naive realism; Why do we perceive things differently from others? _Social Cognition 2018_. **[https://socialcognition3330n.wordpress.com/2018/02/08/naive-realism/](https://socialcognition3330n.wordpress.com/2018/02/08/naive-realism/)**
+12. Ross, L., & Ward, A. (1995). Naive Realism: Implications for Social Conflict and Misunderstanding. _Stanford Center on Conflict and Negotiation Crown Quadrangle_, (48), 103-135.
+13. Loewenstein, G., & Weber, E. U. (2020, September 13). _Op-ed: How to get through to your risk-taking friends in the COVID-19 pandemic_. Los Angeles Times. **[https://www.latimes.com/opinion/story/2020-09-13/coronavirus-risks-psychology-motives](https://www.latimes.com/opinion/story/2020-09-13/coronavirus-risks-psychology-motives)**
+14. Frank, N. (2018, September 3). _Psychology and the Construction of Reality: Challenges to Naive Realism_. Owlcation. **[https://owlcation.com/humanities/Psychology-and-the-Construction-of-Reality-Challenges-to-Native-Realism](https://owlcation.com/humanities/Psychology-and-the-Construction-of-Reality-Challenges-to-Native-Realism)**
