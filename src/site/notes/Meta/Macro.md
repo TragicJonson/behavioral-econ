@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/meta/macro/","tags":["gardenEntry"]}
 ---
 
-
+asdf
 *“You believe you know what goes on in your mind, which often consists of one conscious thought leading in an orderly way to another. But that is not the only way the mind works, or indeed is that the typical way. Most impressions, and thoughts arise in your conscious experience without your knowing how they get there… The mental work that produces impressions, intuitions, and many decisions goes on in silence in our mind.”* — Daniel Kahneman
 
 According to [*Thinking, Fast and Slow*](https://bookshop.org/p/books/thinking-fast-and-slow-daniel-kahneman/943943), we have two sequential systems manage how we process new information: 
